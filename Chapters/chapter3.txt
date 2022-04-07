@@ -1,0 +1,1 @@
+Git allows the creation of branches, which permits simultaneous work on different versions.
