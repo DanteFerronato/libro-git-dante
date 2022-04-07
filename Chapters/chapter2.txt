@@ -1,0 +1,4 @@
+The basic Git workflow consists of:
+ 1. Make changes in the repository
+ 2. Add those changes to the temporal interchange zone
+ 3. Commit the changes
